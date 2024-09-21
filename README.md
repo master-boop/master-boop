@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Koushik, a 16-year-old tech enthusiast with a passion for programming, AI, and cybersecurity. I enjoy working on innovative projects and exploring new technologies.<br><br>Feel free to check out my work and reach out for collaboration!
+<br>I'm Koushik, a tech enthusiast with a passion for programming, AI, and cybersecurity. I enjoy working on innovative projects and exploring new technologies.<br><br>Feel free to check out my work and reach out for collaboration!
 
 
 # 💻 Tech Stack:
